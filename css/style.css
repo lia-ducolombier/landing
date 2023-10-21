@@ -1,0 +1,27 @@
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/card2.css");
+@import url("components/card3.css");
+@import url("components/cards.css");
+
+
+
+@import url("https://fonts.googleapis.com/css2?family=Lora&family=Open+Sans:wght@300&display=swap");
+
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+}
+
+h1, h2, h3 {
+	font-family: 'Lora', serif;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
